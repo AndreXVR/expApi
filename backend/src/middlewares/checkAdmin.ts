@@ -8,3 +8,4 @@ const checkAuth = (req: Request, res: Response, next: NextFunction) => {
 };
 
 export default checkAuth;
+ 
